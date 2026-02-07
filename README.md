@@ -67,12 +67,14 @@ I am a **Full Stack Web Developer** passionate about building modern, scalable w
 
 # 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Slimaniayoub773&theme=dark&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slimaniayoub773&theme=dark&hide_border=true&count_private=true&layout=compact" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Slimaniayoub773&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slimaniayoub773&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" width="48%" />
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Slimaniayoub773&theme=dark&hide_border=true" width="100%" />
+<img src="https://streak-stats.demolab.com?user=Slimaniayoub773&theme=dark&hide_border=true" width="100%" />
 </p>
 
 ### ✍️ Random Dev Quote
