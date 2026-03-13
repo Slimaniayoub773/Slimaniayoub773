@@ -67,14 +67,15 @@ I am a **Full Stack Web Developer** passionate about building modern, scalable w
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Slimaniayoub773&show_icons=true&theme=dark&count_private=true&v=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slimaniayoub773&layout=compact&theme=dark&v=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Slimaniayoub773&show_icons=true&theme=dark&count_private=true&include_all_commits=true&v=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slimaniayoub773&layout=compact&theme=dark&exclude_repo=repo1,repo2&v=10" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Slimaniayoub773&theme=dark&v=10" />
 </p>
 
+> **Note:** The "Most Used Languages" stats show only public repository code. Private repository code is not included due to GitHub API limitations. The GitHub Stats card above includes both public and private contributions since `count_private=true` is enabled.
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://readme-quotes.vercel.app/api?theme=radical" alt="Dev Quote" />
