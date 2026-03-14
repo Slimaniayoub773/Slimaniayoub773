@@ -74,7 +74,6 @@ I am a **Full Stack Web Developer** passionate about building modern, scalable w
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Slimaniayoub773&theme=dark" />
 </p>
 
-> **Note:** The stats card above now includes **all contributions** (public + private) because it uses an authenticated token. The language stats still reflect only public repositories, as private code cannot be accessed via the GitHub API.
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://readme-quotes.vercel.app/api?theme=radical" alt="Dev Quote" />
