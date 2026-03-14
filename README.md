@@ -64,18 +64,17 @@ I am a **Full Stack Web Developer** passionate about building modern, scalable w
 ## Quality & Documentation
 ![UML](https://img.shields.io/badge/UML-FF6F00?style=for-the-badge&logo=diagram&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Slimaniayoub773&show_icons=true&theme=dark&count_private=true&include_all_commits=true&v=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slimaniayoub773&layout=compact&theme=dark&exclude_repo=repo1,repo2&v=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Slimaniayoub773&show_icons=true&theme=dark&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slimaniayoub773&layout=compact&theme=dark" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Slimaniayoub773&theme=dark&v=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Slimaniayoub773&theme=dark" />
 </p>
 
-> **Note:** The "Most Used Languages" stats show only public repository code. Private repository code is not included due to GitHub API limitations. The GitHub Stats card above includes both public and private contributions since `count_private=true` is enabled.
+> **Note:** The stats card above now includes **all contributions** (public + private) because it uses an authenticated token. The language stats still reflect only public repositories, as private code cannot be accessed via the GitHub API.
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://readme-quotes.vercel.app/api?theme=radical" alt="Dev Quote" />
