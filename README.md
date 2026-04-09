@@ -11,7 +11,7 @@ I am a **Full Stack Web Developer** passionate about building modern, scalable w
 - 💬 Ask me about: **React, Laravel, Node.js, and Database Design**
 - ⚡ Fun fact: I believe in the law: *"If it works, don't touch it!"*
 
-## 🌐 Socials:
+## 🌐 Socials :
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://ayoubslimani.vercel.app/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoubslimani773) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ayoub___sli773) 
