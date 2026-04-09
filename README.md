@@ -17,7 +17,7 @@ I am a **Full Stack Web Developer** passionate about building modern, scalable w
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ayoub___sli773) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089092542253)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack :
 
 ## Frontend & UI Frameworks
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
