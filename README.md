@@ -64,6 +64,15 @@ I am a **Full Stack Web Developer** passionate about building modern, scalable w
 ## Quality & Documentation
 ![UML](https://img.shields.io/badge/UML-FF6F00?style=for-the-badge&logo=diagram&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+# 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Slimaniayoub773&show_icons=true&theme=dark&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slimaniayoub773&layout=compact&theme=dark" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Slimaniayoub773&theme=dark" />
+</p>
 
 ### ✍️ Random Dev Quote
 <p align="center">
