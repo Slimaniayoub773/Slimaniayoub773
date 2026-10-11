@@ -1,4 +1,4 @@
-# 💫 About Mee :
+# 💫 About Me :
 Hi there, I'm Ayoub Slimani 👋 
 ### Full Stack Developer | Problem Solver | Tech Enthusiast
 
